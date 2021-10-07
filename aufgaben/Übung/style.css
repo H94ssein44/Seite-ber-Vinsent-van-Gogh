@@ -1,0 +1,20 @@
+body {
+    font-family: "Raleway", Arial, sans-serif;
+    background-color:yellowgreen ;
+}
+
+@media (max-width: 700px) {
+ body {
+     background-color: coral;
+ }
+    
+}
+img{
+    width: 400px;
+    justify-content: center;
+}
+w3-half{
+ display: flex;
+ flex-wrap: wrap;
+ width: 100%;
+}
